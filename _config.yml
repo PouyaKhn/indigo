@@ -3,7 +3,7 @@ title: Pouya Khani
 bio: MSc. of AI and Robotics student at Sharif University of Technology (SUT)
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,12 +37,14 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: Pouya Khani
+email: pouya.khani@sharif.edu
+linkedin: mylinkedin
 github: pouyakhn
-email: pouya.khani11@gmail.com
+#scholar: 
+
 
 authors:
-  johndoe:
+  pouyakhani:
     name: Pouya Khani
     bio: MSc. of AI and Robotics student at Sharif University of Technology (SUT)
     external-image: false
@@ -67,7 +69,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
